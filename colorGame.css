@@ -75,4 +75,21 @@ button:active {
     outline: none;
 }
 
-
+@media screen and (max-width: 540px) {
+    h1 {font-size: 1em;}
+    .heading__span {
+        font-size: 150%;
+    }
+    .stripe {
+        font-size: .5em;
+    }
+}
+@media screen and (max-width: 200px) {
+    h1 {font-size: .8em;}
+    .heading__span {
+        font-size: 120%;
+    }
+    .stripe {
+        font-size: .3em;
+    }
+}
