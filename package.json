@@ -1,0 +1,20 @@
+{
+  "name": "color-game",
+  "version": "1.0.0",
+  "description": "frontend practice",
+  "main": "colorGame.js",
+  "scripts": {
+    "test": "start",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvbem/colorGame.git"
+  },
+  "author": "dvbem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvbem/colorGame/issues"
+  },
+  "homepage": "https://github.com/dvbem/colorGame#readme"
+}
