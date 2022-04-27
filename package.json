@@ -4,8 +4,10 @@
   "description": "frontend practice",
   "main": "colorGame.js",
   "scripts": {
-    "test": "start",
-    "start": "node app.js"
+    "start": "harp server --port $port"
+  },
+  "dependencies": {
+    "harp": "*"
   },
   "repository": {
     "type": "git",
